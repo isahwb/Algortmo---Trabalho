@@ -6,7 +6,7 @@ Um jogo de terminal em Python, **inspirado no jogo TERMO**, onde o jogador preci
 Palavras com 5 letras escolhidas aletoriamente;
 O jogador terá 6 tentativas para adivinhar a palavra;
 
-- > Exibição de:
+## Exibição de: ##
 Letras corretas na posição certa;
 Letras que existem na palavra, mas podem estar em posição errada;
 Validação de entradas do usuário;
