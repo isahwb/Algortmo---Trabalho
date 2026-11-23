@@ -3,7 +3,7 @@
 Um jogo de terminal em Python, **inspirado no jogo TERMO**, onde o jogador precisa descobrir a palavra secreta dentro de um número limitado de tentativas.
 
 ---
-## Funcionalidades ##
+## Funcionalidades: ##
 - Palavras com 5 letras escolhidas aletoriamente
 - O jogador terá 6 tentativas para adivinhar a palavra
 
@@ -15,7 +15,7 @@ Um jogo de terminal em Python, **inspirado no jogo TERMO**, onde o jogador preci
 - Opção de jogar novamente
 
 ---
-## Como Executar ## 
+## Como Executar: ## 
 - Certifique-se de ter o Python instalado
 - Clone este repositório:
 ```bash
