@@ -7,16 +7,16 @@ Um jogo de terminal em Python, **inspirado no jogo TERMO**, onde o jogador preci
 - O jogador terá 6 tentativas para adivinhar a palavra
 
 ## Exibição de: ##
-Letras corretas na posição certa;
-Letras que existem na palavra, mas podem estar em posição errada;
-Validação de entradas do usuário;
-Opção de jogar novamente;
+- Letras corretas na posição certa
+- Letras que existem na palavra, mas podem estar em posição errada
+- Validação de entradas do usuário
+- Opção de jogar novamente
   
 ## Como Executar ## 
-Certifique-se de ter o Python 3.10+ instalado
-Clone este repositório:
+- Certifique-se de ter o Python 3.10+ instalado
+- Clone este repositório:
 git clone https://github.com/isahwb/Algortmo---Trabalho
-Acesse a pasta do projeto:
+- Acesse a pasta do projeto:
 files
-Execute o jogo no arquivo:
+- Execute o jogo no arquivo:
 main.py
