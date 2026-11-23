@@ -19,6 +19,10 @@ Um jogo de terminal em Python, **inspirado no jogo TERMO**, onde o jogador preci
 git clone https://github.com/isahwb/Algortmo---Trabalho
 ```
 - Acesse a pasta do projeto:
+´´´bash
 files
+´´´
 - Execute o jogo no arquivo:
+´´´bash
 main.py
+´´´
